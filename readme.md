@@ -6,7 +6,7 @@
 
 ## Contents
 
-- [Things to start from](#where-do-i-start-?)
+- [Things to start from](#where-do-i-start-)
 - [About Ava](#about-ava)
 - [Documentation](#documentation)
 - [Tools](#tools)
