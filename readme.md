@@ -19,7 +19,8 @@
 - [Running wallet locally](https://medium.com/avalabs/the-ava-platform-tools-pt-1-the-ava-wallet-b2e849b57632)
 - [Running faucet locally](https://medium.com/avalabs/the-ava-platform-tools-pt-2-the-ava-faucet-48f28da57146)
 - [Use Slopes](https://medium.com/avalabs/the-ava-platform-tools-pt-3-slopes-putting-the-ava-in-javascript-6c03ffa38835)
-
+- [Ava on macOs](https://medium.com/@gbolahanethanonadeko/ava-node-setup-on-macos-for-newbies-559c50757008)
+- [Ava on Cloudjiffy](https://medium.com/@gbolahanethanonadeko/ava-cascade-for-newbies-ae00b0736b70)
 ## About Ava
 
 - [Ava](https://www.avalabs.org/)
