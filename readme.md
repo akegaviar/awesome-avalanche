@@ -2,7 +2,7 @@
 
 > An awesome list for Ava , [the next generation blockchain platform](https://www.avalabs.org/why-ava) 
 
-![Ava labs Logo](./ava-labs-logo.jpg)
+![Ava labs Logo](./ava-logo.jpg)
 
 ## Contents
 
