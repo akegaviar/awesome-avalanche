@@ -21,6 +21,8 @@
 - [Use Slopes](https://medium.com/avalabs/the-ava-platform-tools-pt-3-slopes-putting-the-ava-in-javascript-6c03ffa38835)
 - [Ava on macOs](https://medium.com/@gbolahanethanonadeko/ava-node-setup-on-macos-for-newbies-559c50757008)
 - [Ava on Cloudjiffy](https://medium.com/@gbolahanethanonadeko/ava-cascade-for-newbies-ae00b0736b70)
+- [Ava on Windows](https://youtu.be/qDJT7zqeIaY)
+
 ## About Ava
 
 - [Ava](https://www.avalabs.org/)
