@@ -52,6 +52,7 @@
 ## Developer tools
 
 - [Ava autostaker](https://github.com/michaelbnewman/ava-auto-staker)
+- [Deploy Smart Contract on C-Chain](https://medium.com/avalabs/deploy-a-smart-contract-on-ava-using-remix-and-metamask-98933a93f436)
 
 ## Contribute
 
