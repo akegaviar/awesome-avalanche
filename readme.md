@@ -15,6 +15,7 @@
 ## Where Do I Start ?
 
 - [Join AVA Denali test network](https://medium.com/avalabs/how-to-join-avas-denali-test-network-9bbfb353207b)
+- [Setup Denali node on AWS](https://medium.com/@ablock.io/guide-launch-your-denali-node-with-aws-from-a-to-z-4a13ebac1466)
 - [Setting up Gecko node](https://docs.ava.network/v1.0/en/quickstart/ava-getting-started/)
 - [Installing Gecko and Avash](https://medium.com/avalabs/how-to-install-and-run-ava-borealis-971286add0c0)
 - [Running wallet locally](https://medium.com/avalabs/the-ava-platform-tools-pt-1-the-ava-wallet-b2e849b57632)
