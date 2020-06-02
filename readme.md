@@ -17,14 +17,8 @@
 - [Join AVA Denali test network](https://medium.com/avalabs/how-to-join-avas-denali-test-network-9bbfb353207b)
 - [Setup Denali node on AWS](https://medium.com/@ablock.io/guide-launch-your-denali-node-with-aws-from-a-to-z-4a13ebac1466)
 - [Setting up Gecko node](https://docs.ava.network/v1.0/en/quickstart/ava-getting-started/)
-- [Installing Gecko and Avash](https://medium.com/avalabs/how-to-install-and-run-ava-borealis-971286add0c0)
-- [Running wallet locally](https://medium.com/avalabs/the-ava-platform-tools-pt-1-the-ava-wallet-b2e849b57632)
-- [Running faucet locally](https://medium.com/avalabs/the-ava-platform-tools-pt-2-the-ava-faucet-48f28da57146)
-- [Use Slopes](https://medium.com/avalabs/the-ava-platform-tools-pt-3-slopes-putting-the-ava-in-javascript-6c03ffa38835)
 - [Ava on macOs](https://medium.com/@gbolahanethanonadeko/ava-node-setup-on-macos-for-newbies-559c50757008)
 - [Ava on Cloudjiffy](https://medium.com/@gbolahanethanonadeko/ava-cascade-for-newbies-ae00b0736b70)
-- [Ava on Windows (Video)](https://youtu.be/qDJT7zqeIaY)
-- [Ava on Windows (Medium)](https://medium.com/@jstodd/setting-up-an-ava-testnet-node-for-newbie-windows-users-bea6d4c619dd)
 
 ## About Ava
 
@@ -56,6 +50,9 @@
 - [Ava autostaker](https://github.com/michaelbnewman/ava-auto-staker)
 - [AVA Api Postman Collection](https://github.com/synechist/AVA-APIs-Postman)
 - [Deploy Smart Contract on C-Chain](https://medium.com/avalabs/deploy-a-smart-contract-on-ava-using-remix-and-metamask-98933a93f436)
+- [Use Slopes](https://medium.com/avalabs/the-ava-platform-tools-pt-3-slopes-putting-the-ava-in-javascript-6c03ffa38835)
+- [Running wallet locally](https://medium.com/avalabs/the-ava-platform-tools-pt-1-the-ava-wallet-b2e849b57632)
+- [Running faucet locally](https://medium.com/avalabs/the-ava-platform-tools-pt-2-the-ava-faucet-48f28da57146)
 
 ## Contribute
 
