@@ -16,6 +16,8 @@
 
 - [Join AVA Denali test network](https://medium.com/avalabs/how-to-join-avas-denali-test-network-9bbfb353207b)
 - [Setup Denali node on AWS](https://medium.com/@ablock.io/guide-launch-your-denali-node-with-aws-from-a-to-z-4a13ebac1466)
+- [Scripts to setup Denali](https://medium.com/@ablock.io/launch-your-denali-node-in-5-minutes-b9a6a0e6e898)
+- [Keeping your Denali node alive](https://medium.com/@dogusural/how-to-keep-denali-node-alive-on-linux-c16d57e561ca?source=social.tw)
 - [Setting up Gecko node](https://docs.ava.network/v1.0/en/quickstart/ava-getting-started/)
 - [Ava on macOs](https://medium.com/@gbolahanethanonadeko/ava-node-setup-on-macos-for-newbies-559c50757008)
 - [Ava on Cloudjiffy](https://medium.com/@gbolahanethanonadeko/ava-cascade-for-newbies-ae00b0736b70)
