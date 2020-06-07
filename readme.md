@@ -21,6 +21,7 @@
 - [Setting up Gecko node](https://docs.ava.network/v1.0/en/quickstart/ava-getting-started/)
 - [Ava on macOs](https://medium.com/@gbolahanethanonadeko/ava-node-setup-on-macos-for-newbies-559c50757008)
 - [Ava on Cloudjiffy](https://medium.com/@gbolahanethanonadeko/ava-cascade-for-newbies-ae00b0736b70)
+- [Gecko on a Raspberry 4](https://github.com/otherpaco/ava-denali-testnet-on-raspi4)
 
 ## About Ava
 
