@@ -14,6 +14,7 @@
 
 ## Where Do I Start ?
 
+- [Backup Ava node](https://medium.com/@otherpaco/backup-your-precious-ava-node-85650b9941a7)
 - [Join AVA Denali test network](https://medium.com/avalabs/how-to-join-avas-denali-test-network-9bbfb353207b)
 - [Setup Denali node on AWS](https://medium.com/@ablock.io/guide-launch-your-denali-node-with-aws-from-a-to-z-4a13ebac1466)
 - [Scripts to setup Denali](https://medium.com/@ablock.io/launch-your-denali-node-in-5-minutes-b9a6a0e6e898)
