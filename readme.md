@@ -58,7 +58,7 @@
 - [Use Slopes](https://medium.com/avalabs/the-ava-platform-tools-pt-3-slopes-putting-the-ava-in-javascript-6c03ffa38835)
 - [Running wallet locally](https://medium.com/avalabs/the-ava-platform-tools-pt-1-the-ava-wallet-b2e849b57632)
 - [Running faucet locally](https://medium.com/avalabs/the-ava-platform-tools-pt-2-the-ava-faucet-48f28da57146)
-
+- [Bash wrapper for API call](https://gist.github.com/jzu/d26b317b35b6fcf3317a636f1ce5f7ee)
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
