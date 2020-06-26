@@ -35,6 +35,7 @@
 - [Discord](https://discord.gg/Ja3CSs7)
 - [Newsletter](https://upscri.be/xnitey)
 - [Medium](https://medium.com/avalabs)
+- [Token Sale Info](https://info.avax.network/)
 
 ## Documentation
 
