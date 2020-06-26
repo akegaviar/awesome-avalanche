@@ -1,13 +1,13 @@
 # awesome-ava-chain [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> An awesome list for Ava , [the next generation blockchain platform](https://www.avalabs.org/why-ava) 
+> An awesome list for Avalanche , [the next generation blockchain platform](https://www.avalabs.org/why-ava) 
 
-![Ava labs Logo](./ava-logo.jpg)
+![Avalanche Logo](./ava-logo.jpg)
 
 ## Contents
 
 - [Things to start from](#where-do-i-start-)
-- [About Ava](#about-ava)
+- [About Avalanche](#about-avalanche)
 - [Documentation](#documentation)
 - [Tools](#tools)
 - [Developer tools](#developer-tools)
@@ -25,7 +25,7 @@
 - [Ava on Cloudjiffy](https://medium.com/@gbolahanethanonadeko/ava-cascade-for-newbies-ae00b0736b70)
 - [Gecko on a Raspberry 4](https://github.com/otherpaco/ava-denali-testnet-on-raspi4)
 
-## About Ava
+## About Avalanche
 
 - [Ava](https://www.avalabs.org/)
 - [Github / Source code](https://github.com/ava-labs?type=source)
