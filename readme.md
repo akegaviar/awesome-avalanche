@@ -1,4 +1,4 @@
-# awesome-ava-chain [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-avalanche [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > An awesome list for Avalanche , [the next generation blockchain platform](https://www.avalabs.org/why-ava) 
 
