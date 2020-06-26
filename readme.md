@@ -53,6 +53,7 @@
 
 ## Developer tools
 
+- [Javascript library - Avalanche.js](https://github.com/ava-labs/avalanche.js)
 - [Ava autostaker](https://github.com/michaelbnewman/ava-auto-staker)
 - [Ava python](https://github.com/zefonseca/ava-python)
 - [AVA Api Postman Collection](https://github.com/synechist/AVA-APIs-Postman)
