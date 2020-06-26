@@ -28,8 +28,8 @@
 
 - [Ava](https://www.avalabs.org/)
 - [Github / Source code](https://github.com/ava-labs?type=source)
-- [Reddit](https://www.reddit.com/r/ava/)
-- [Ava hub](https://community.ava.network/)
+- [Reddit](https://www.reddit.com/r/avax/)
+- [Ava hub](https://community.avax.network/)
 - [Twitter](https://twitter.com/avalabsofficial)
 - [Discord](https://discord.gg/Ja3CSs7)
 - [Newsletter](https://upscri.be/xnitey)
@@ -38,16 +38,16 @@
 ## Documentation
 
 - [Ava ?](https://medium.com/avalabs/the-ava-platform-a-tech-primer-7a9b5de57a35)
-- [Official doc](https://docs.ava.network/)
+- [Official doc](https://docs.avax.network/)
 - [Avalanche white paper](https://arxiv.org/pdf/1906.08936.pdf)
 - [Ava platform spec](https://files.avalabs.org/papers/platform.pdf)
 - [Ava token spec ](https://files.avalabs.org/papers/ava-token.pdf)
 
 ## Tools
 
-- [Explorer](https://explorer.ava.network/)
-- [Faucet](https://faucet.ava.network/)
-- [Wallet](https://wallet.ava.network)
+- [Explorer](https://explorer.avax.network/)
+- [Faucet](https://faucet.avax.network/)
+- [Wallet](https://wallet.avax.network)
 
 ## Developer tools
 
@@ -59,6 +59,8 @@
 - [Running wallet locally](https://medium.com/avalabs/the-ava-platform-tools-pt-1-the-ava-wallet-b2e849b57632)
 - [Running faucet locally](https://medium.com/avalabs/the-ava-platform-tools-pt-2-the-ava-faucet-48f28da57146)
 - [Bash wrapper for API call](https://gist.github.com/jzu/d26b317b35b6fcf3317a636f1ce5f7ee)
+- [AVA CLI](https://github.com/hsk81/ava-cli)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
