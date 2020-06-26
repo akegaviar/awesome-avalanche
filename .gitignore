@@ -3,7 +3,7 @@
 logs
 *.log
 npm-debug.log*
-*.iml
+awesome-ava-chain.iml
 # Runtime data
 pids
 *.pid

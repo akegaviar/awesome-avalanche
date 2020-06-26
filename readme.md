@@ -14,6 +14,7 @@
 
 ## Where Do I Start ?
 
+- [Snowball consensus visualization](https://tedyin.com/archive/snow-bft-demo/#/snow)
 - [Backup Ava node](https://medium.com/@otherpaco/backup-your-precious-ava-node-85650b9941a7)
 - [Join AVA Denali test network](https://medium.com/avalabs/how-to-join-avas-denali-test-network-9bbfb353207b)
 - [Setup Denali node on AWS](https://medium.com/@ablock.io/guide-launch-your-denali-node-with-aws-from-a-to-z-4a13ebac1466)
