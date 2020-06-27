@@ -24,13 +24,14 @@
 - [Ava on macOs](https://medium.com/@gbolahanethanonadeko/ava-node-setup-on-macos-for-newbies-559c50757008)
 - [Ava on Cloudjiffy](https://medium.com/@gbolahanethanonadeko/ava-cascade-for-newbies-ae00b0736b70)
 - [Gecko on a Raspberry 4 (1)](https://github.com/otherpaco/ava-denali-testnet-on-raspi4)
-- [Gecko on a Raspberry 4 (2)](https://medium.com/@kamoshikapioto/ava-gecko-node-on-raspberry-os-64-bit-2989e5110871)
+- [Gecko on a Raspberry 4 (2)](https://medium.com/@otherpaco/run-gecko-on-a-raspberrypi-and-make-it-an-ava-node-and-validator-b79822c9136d)
+- [Gecko on a Raspberry 4 (3)](https://medium.com/@kamoshikapioto/ava-gecko-node-on-raspberry-os-64-bit-2989e5110871)
 
 ## About Avalanche
 
 - [Ava](https://www.avalabs.org/)
 - [Github / Source code](https://github.com/ava-labs?type=source)
-- [Reddit](https://www.reddit.com/r/avax/)
+- [Reddit](https://www.reddit.com/r/avax/)  
 - [Ava hub](https://community.avax.network/)
 - [Twitter](https://twitter.com/avalabsofficial)
 - [Discord](https://discord.gg/Ja3CSs7)
