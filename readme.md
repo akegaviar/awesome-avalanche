@@ -66,6 +66,7 @@
 - [Bash wrapper for API call](https://gist.github.com/jzu/d26b317b35b6fcf3317a636f1ce5f7ee)
 - [AVA CLI](https://github.com/hsk81/ava-cli)
 - [Tx speed test](https://github.com/ekherit/pyava)
+- [Deploy Smart Contracts using Avash and Remix](https://gist.github.com/cgcardona/6066064ca32caaa44fa352f25bf2e087)
 
 ## Contribute
 
