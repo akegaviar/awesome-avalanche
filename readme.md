@@ -50,6 +50,7 @@
 ## Tools
 
 - [Explorer](https://explorer.avax.network/)
+- [Keygen](https://explorer.avax.network/)
 - [Faucet](https://faucet.avax.network/)
 - [Wallet](https://wallet.avax.network)
 
@@ -58,7 +59,8 @@
 - [Javascript library - Avalanche.js](https://github.com/ava-labs/avalanche.js)
 - [Ava autostaker](https://github.com/michaelbnewman/ava-auto-staker)
 - [Ava python](https://github.com/zefonseca/ava-python)
-- [AVA Api Postman Collection](https://github.com/synechist/AVA-APIs-Postman)
+- [Avalanche Api Postamn Collection - 1](https://gist.github.com/cgcardona/a3fef4015f143d6ff5dc66660a22f463)
+- [AVA Api Postman Collection - 2](https://github.com/synechist/AVA-APIs-Postman)
 - [Deploy Smart Contract on C-Chain](https://medium.com/avalabs/deploy-a-smart-contract-on-ava-using-remix-and-metamask-98933a93f436)
 - [Use Slopes](https://medium.com/avalabs/the-ava-platform-tools-pt-3-slopes-putting-the-ava-in-javascript-6c03ffa38835)
 - [Running wallet locally](https://medium.com/avalabs/the-ava-platform-tools-pt-1-the-ava-wallet-b2e849b57632)
