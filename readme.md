@@ -20,7 +20,6 @@
 - [Setup Denali node on AWS](https://medium.com/@ablock.io/guide-launch-your-denali-node-with-aws-from-a-to-z-4a13ebac1466)
 - [Scripts to setup Denali](https://medium.com/@ablock.io/launch-your-denali-node-in-5-minutes-b9a6a0e6e898)
 - [Keeping your Denali node alive](https://medium.com/@dogusural/how-to-keep-denali-node-alive-on-linux-c16d57e561ca?source=social.tw)
-- [Setting up Gecko node](https://docs.ava.network/v1.0/en/quickstart/ava-getting-started/)
 - [Ava on macOs](https://medium.com/@gbolahanethanonadeko/ava-node-setup-on-macos-for-newbies-559c50757008)
 - [Ava on Cloudjiffy](https://medium.com/@gbolahanethanonadeko/ava-cascade-for-newbies-ae00b0736b70)
 - [Gecko on a Raspberry 4 (1)](https://github.com/otherpaco/ava-denali-testnet-on-raspi4)
@@ -41,7 +40,7 @@
 
 ## Documentation
 
-- [Ava ?](https://medium.com/avalabs/the-ava-platform-a-tech-primer-7a9b5de57a35)
+- [Avalanche ?](https://medium.com/avalabs/the-ava-platform-a-tech-primer-7a9b5de57a35)
 - [Official doc](https://docs.avax.network/)
 - [Avalanche white paper](https://arxiv.org/pdf/1906.08936.pdf)
 - [Ava platform spec](https://files.avalabs.org/papers/platform.pdf)
@@ -59,7 +58,7 @@
 - [Javascript library - Avalanche.js](https://github.com/ava-labs/avalanche.js)
 - [Ava autostaker](https://github.com/michaelbnewman/ava-auto-staker)
 - [Ava python](https://github.com/zefonseca/ava-python)
-- [Avalanche Api Postamn Collection - 1](https://gist.github.com/cgcardona/a3fef4015f143d6ff5dc66660a22f463)
+- [Avalanche Api Postamn Collection - 1](https://github.com/cgcardona/avalanche-postman-collection)
 - [AVA Api Postman Collection - 2](https://github.com/synechist/AVA-APIs-Postman)
 - [Deploy Smart Contract on C-Chain](https://medium.com/avalabs/deploy-a-smart-contract-on-ava-using-remix-and-metamask-98933a93f436)
 - [Use Slopes](https://medium.com/avalabs/the-ava-platform-tools-pt-3-slopes-putting-the-ava-in-javascript-6c03ffa38835)
