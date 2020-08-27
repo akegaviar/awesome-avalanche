@@ -17,7 +17,7 @@
 - [Snowball consensus visualization](https://tedyin.com/archive/snow-bft-demo/#/snow)
 - [Backup Avalanche node](https://medium.com/@otherpaco/backup-your-precious-ava-node-85650b9941a7)
 - [Join Avalanche Everest test network](https://medium.com/avalabs/unveiling-everest-avalanches-mainnet-release-candidate-670e0ca5e28e)
-
+- [Run Everest on a Raspi4](https://github.com/otherpaco/avalanche-on-RasPi4-Everest-edition)
 ## About Avalanche
 
 - [Ava](https://www.avalabs.org/)
