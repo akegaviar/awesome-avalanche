@@ -61,6 +61,15 @@
 - [Tx speed test](https://github.com/ekherit/pyava)
 - [Deploy Smart Contracts using Avash and Remix](https://gist.github.com/cgcardona/6066064ca32caaa44fa352f25bf2e087)
 
+## Node providers
+
+- [Chainstack](https://chainstack.com/build-better-with-avalanche/)
+
+## Subnets
+
+- [Subnet aggregator](https://www.subnet.tech/)
+- [Managed subnets with Chainstack & Covalent](https://chainstack.com/permissioned-chains-avalanche-subnets/)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
